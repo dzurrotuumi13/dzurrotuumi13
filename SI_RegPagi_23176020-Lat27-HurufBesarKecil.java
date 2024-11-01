@@ -7,6 +7,10 @@ package pkg23176020pbo5;
 /**
  *
  * @author Asus
+ * Nama : Dzurrotu Umi Asyfiya
+ * NIM : 23176020
+ * Prodi : Sistem Informasi
+ * Deskripsi Program: Rangkaian kode berikut berisi mengenai Waktu saat ini
  */
 import java.util.Scanner;
 
